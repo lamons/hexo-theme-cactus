@@ -155,8 +155,8 @@ gravatar:
 
 valine:
   enabled: true
-  appId: LC_APPID_PLACEHOLDER
-  appKey: LC_APPKEY_PLACEHOLDER
+  appId: OxfQk0D2mgXNDfllS1GMYFmx-MdYXbMMI
+  appKey: pdegOdCQEnwzT9Hux3AuTiUb
   notify: true
   verify: false
   avatar: hide
