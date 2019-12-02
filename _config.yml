@@ -157,7 +157,7 @@ valine:
   enabled: true
   appId: OxfQk0D2mgXNDfllS1GMYFmx-MdYXbMMI
   appKey: pdegOdCQEnwzT9Hux3AuTiUb
-  lang: 'en'
+  lang: en
   notify: true
   verify: false
   avatar: hide
