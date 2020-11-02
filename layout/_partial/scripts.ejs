@@ -62,6 +62,11 @@
         })();
     </script>
 <% } %>
+<!-- GoatCounter -->
+<% if (theme.goatcounter.enabled && theme.goatcounter.id){ %>
+    <script data-goatcounter="https://<%= theme.goatcounter.id %>.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+<% } %>
 <!-- Disqus Comments -->
 <% if (theme.disqus.enabled && theme.disqus.shortname){ %>
     <script type="text/javascript">
